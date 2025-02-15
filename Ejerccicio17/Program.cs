@@ -13,7 +13,7 @@ class Program
         Console.Write("Ingrese el primer número: ");
         int numero1 = int.Parse(Console.ReadLine());
 
-        Console.Write("Ingrese el segundo número: ");
+        Console.Write("Ingrese el segundo númeroo: ");
         int numero2 = int.Parse(Console.ReadLine());
 
         // Invocar la función y mostrar el resultado
